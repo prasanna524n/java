@@ -24,6 +24,6 @@ public class App {
 
         System.out.println("Mortgage: " + mortgageFormatted);
         scanner.close();
-        
+
     }
 }
